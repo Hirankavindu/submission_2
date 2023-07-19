@@ -1,16 +1,3 @@
-# new_assignmnet_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Submission</h1>
+<h2>Screen shot of the app</h2>
+<img width="355" alt="Screenshot 2023-07-19 at 11 50 26" src="https://github.com/Hirankavindu/submission_2/assets/97301123/5e16b1ab-9e2d-49fe-8fe1-6a8643181887">
